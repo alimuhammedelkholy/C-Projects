@@ -13,6 +13,5 @@ int main()
 {
 
     GetName();
-    cout<<"Hello, World!\n";
     return 0;
 }
