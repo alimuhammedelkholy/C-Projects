@@ -9,6 +9,7 @@ void GetName()
     cout << "Hello, " << name << "!\n";
 }
 
+
 int main()
 {
 
